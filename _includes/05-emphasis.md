@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Founder of the company **GATSO - Creativity & Development in 2007** 
+- Graduated in 2012 · Computer Science
+- Graduated in 2017 · Graphic design
