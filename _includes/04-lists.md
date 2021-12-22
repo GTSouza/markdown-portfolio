@@ -9,7 +9,7 @@
 - Knowledge of algorithms and data structures.
 - Experience in development of distributed/scalable systems and high-volume transaction applications.
 
-#### Sowftware Development skills
+#### Software Development skills
 - Android (Java; Kotlin);
 - iOS (Objective-C; Swift);
 - Web Front-end (HTML5, CSS3, JavaScript, SEO, Angular, React and Others);
