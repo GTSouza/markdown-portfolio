@@ -1,3 +1,7 @@
+- Founder of the company **GATSO - Creativity & Development in 2007** 
+- Graduated in 2012 · Computer Science
+- Graduated in 2017 · Graphic design
+
 #### Software Engineer skills:
 - Bachelor’s degree in Computer Science.
 - 10+ years of professional software development experience.
@@ -25,13 +29,3 @@
 #### Graphic Designer skills
 - Bachelor’s degree in Graphic design.
 - UI/UX Designer (Photoshop, Illustrator, Sketch and Others).
-
-#### Special Projects
-- O’Loreal Clarisonic iOS and Android
-- Michael Kors: https://vimeo.com/61219996
-- Porsche: https://vimeo.com/122021326
-- The Visible City: Promo: https://vimeo.com/65608290 | App Review : https:// vimeo.com/65607437
-- The Mill: https://vimeo.com/119469901
-- Nike Rise 2.0: https://youtu.be/nGuOA_EJ8qk
-- Wifialarm: https://www.youtube.com/watch?v=k67Q_ArSzZs
-- Honda Accord Awards: https://www.facebook.com/Honda/videos/ 10200614637592907/
