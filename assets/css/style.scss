@@ -27,6 +27,11 @@ $hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
 
+.page-header {
+    display: none !important;
+}
+
 table {
-    width:100%;
+    width:100% !important;
+    display: inline-table !important;
 }
