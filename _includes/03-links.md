@@ -1,3 +1,3 @@
-[GATSO - Github] https://github.com/GATSO
+[GATSO - Github](https://github.com/GATSO)
 
-[GTSouza - Github] https://github.com/GTSouza
+[GTSouza - Github](https://github.com/GTSouza)
