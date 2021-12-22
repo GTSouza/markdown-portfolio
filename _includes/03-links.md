@@ -1,4 +1,4 @@
 | GTSouza     | GATSO |
 | ---      | ---       |
-| [http://gtsouza.com.br](https://gtsouza.com.br) | [https://gatso.com.br](https://gatso.com.br) |
-| [https://github.com/GTSouza](https://github.com/GTSouza) | [https://github.com/GATSO](https://github.com/GATSO) |
+| [gtsouza.com.br](http://gtsouza.com.br) | [gatso.com.br](https://gatso.com.br) |
+| [github.com/GTSouza](https://github.com/GTSouza) | [github.com/GATSO](https://github.com/GATSO) |
